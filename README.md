@@ -1,4 +1,4 @@
-# desafio-ThoughtWorks
+# Desafio-ThoughtWorks
 
 ### Problem one: Trains
 
